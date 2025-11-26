@@ -1,4 +1,4 @@
-Here is a well-structured README template for your AI Agents Assignment project that you can customize and use to present your work clearly:
+Here is a well-structured README template for my AI Agents Assignment project that helps to present your work clearly:
 
 ***
 
